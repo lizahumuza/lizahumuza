@@ -4,23 +4,34 @@ I am from Uganda and I am a self taught full stack developer. I have a passion f
 
 Outside development, I'm a tech writer. I write short articles about programming and JavaScript in general.
 
-## My portfolio
-It is still a work in progress
+- 🛠️ Tech Stack: **Html, CSS, JavaScript, ReactJS, NodeJS, Express, MongoDb, ChakraUI, Tailwind, Git**
 
-## My Tech Stack
-![js](https://user-images.githubusercontent.com/42404743/231438847-7da253bf-ae22-40ee-9155-4f7444dbd8c7.svg)
-![![html](https://user-images.githubusercontent.com/42404743/231439149-92c75f8a-3ad3-4384-9090-fdf9cfcb1f42.svg)
-r![git](https://user-images.githubusercontent.com/42404743/231439231-2535e86e-ef8c-4a16-a0d9-47415b014338.svg)
-e![css](https://user-images.githubusercontent.com/42404743/231439311-82ea0ca3-a8e9-46b0-b8f3-addd131ddb4a.svg)
-a![db](https://user-images.githubusercontent.com/42404743/231439333-47f51e13-732f-4a92-9f13-42ae1c6e51c2.svg)
-c![jest](https://user-images.githubusercontent.com/42404743/231439533-732b26e6-cb59-4321-ae64-3b12306f3493.svg)
-t](https://user-images.githubusercontent.com/42404743/231439003-9795bf74-a7ab-4c15-bd19-868c581c2c60.svg)
+- 🤝 I'm **open to hire**
+
+##  💼 My Tech Stack
+<p align="center">
+<img alt="mongo" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="express" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="react" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="node" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="typescript" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="html5" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="css" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="javascript" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="firebase" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img alt="sass" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img alt="mysql" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="sqlite" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img alt="git" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="bash" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img alt="next" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+</p>
 
 
 ## Get In touch
-![linkedin](https://user-images.githubusercontent.com/42404743/231439664-981ebef3-afdb-4b5c-a1ab-56841a28d267.svg)
-![![discord](https://user-images.githubusercontent.com/42404743/231439767-c4767e43-8c10-4598-bcfc-173193d5a804.svg)
-gmail](https://user-images.githubusercontent.com/42404743/231439643-10d46f89-0a4f-4f7f-8173-65c3208cd63a.svg)
+- 📫 How to reach me **lizahumuza@gmail.com**
+- 📄 Know about my experiences [www.linkedin.com/in/elizabeth-ahumuza-0b6392124](www.linkedin.com/in/elizabeth-ahumuza-0b6392124)
 
 <!--
 **lizahumuza/lizahumuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
