@@ -2,6 +2,7 @@
 
 I am from Uganda and I am a self taught full stack developer. I have a passion for creating user-friendly, scalable, and performant software that helps businesses and individuals achieve their goals. My skills include building modern front-end interfaces using React, managing server-side APIs using Node.js, and designing efficient databases with MongoDB.
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=King-Benx" alt="King-Benx" /></a> </p>
 
 Outside development, I'm a tech writer. I write short articles about programming and JavaScript in general.
