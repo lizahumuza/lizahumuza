@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Elizabeth Ahumuza!
+## 👋 Hi, I'm Elizabeth!
 
 I am from Uganda and I am a self taught full stack developer. I have a passion for creating user-friendly, scalable, and performant software that helps businesses and individuals achieve their goals. My skills include building modern front-end interfaces using React, managing server-side APIs using Node.js, and designing efficient databases with MongoDB.
 
