@@ -5,6 +5,9 @@ I am from Uganda and I am a self taught full stack developer. I have a passion f
 
 ## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lizahumuza" alt="lizahumuza" /></a> </p>
 
+## My Portfolio
+lizahumuza.github.io/portfolio/
+
 Outside development, I'm a tech writer. I write short articles about programming and JavaScript in general.
 
 - 🛠️ Tech Stack: **Html, CSS, JavaScript, ReactJS, NodeJS, Express, MongoDb, ChakraUI, Tailwind, Git**
